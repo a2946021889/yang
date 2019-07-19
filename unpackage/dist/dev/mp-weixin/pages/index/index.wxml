@@ -1,0 +1,1 @@
+<view><paging vue-id="1" total="{{30}}" current="{{1}}" pageSize="{{3}}" bind:__l="__l"></paging></view>
